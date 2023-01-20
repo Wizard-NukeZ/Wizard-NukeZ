@@ -1,34 +1,4 @@
 
-### Hi there 👋, I am Wizard-NukeZ 
-
-#### Mostly Codes Are Biased On Nukers , Tools etc...
-
-![Mostly Codes Are Biased On Nukers , Tools etc...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
-**A normal Discord User Who codes Discord Tools. Just Like Discord Nukers And S3lfbots. I often posts my Friends Codes So don't think i am skidding.**
-
-Skills: Python , JavaScript , Bash
-
-- 🌱 I’m currently learning JavaScript , Bash 
-
-- 💬 Ask me about **Discord-Tools** 
-
-- 📫 How to reach me: lifenone444@gmail.com 
-
-- 😄 Pronouns: He/Him 
-
-- ⚡ Fun fact: I am a illegal guy 🗿 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Wizard-NukeZ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Termux Øp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/itz_wizard_69/)  
-
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wizard-NukeZ)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Wizard-NukeZ)  
-
-![Profile views](https://gpvc.arturio.dev/Wizard-NukeZ)  
-
 <h3 align="center">A discord developer who loves to code something</h3>
 
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/discord-logo-neon-discord-gif-18285196?utm_source=share-button&utm_medium=Social&utm_content=pinterest">
